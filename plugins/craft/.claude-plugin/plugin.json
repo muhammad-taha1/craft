@@ -1,0 +1,12 @@
+{
+  "name": "craft",
+  "displayName": "Craft",
+  "description": "Engineering philosophy as five skills: principles, discover, simplicity, domain-modeling, testing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "thisistaha"
+  },
+  "homepage": "https://github.com/thisistaha/craft",
+  "repository": "https://github.com/thisistaha/craft",
+  "license": "MIT"
+}
