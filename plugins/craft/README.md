@@ -23,6 +23,16 @@ Skills auto-trigger based on context. You can also invoke any of them directly.
 
 Sources: *A Philosophy of Software Design* (Ousterhout), *Domain-Driven Design* (Evans), *Extreme Programming* (Beck).
 
+## Install via npx skills
+
+Install into any agent (Claude Code, Cursor, etc.) without the plugin marketplace:
+
+```bash
+npx skills add thisistaha/craft
+```
+
+See the [root README](../../README.md) for additional flags (`--skill`, `-a`, `-g`).
+
 ## Optional: always-on defaults for your own machine
 
 The `principles` skill description stays in context for you automatically, but for the strongest

@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "craft",
-      "source": "craft",
+      "source": "./craft",
       "displayName": "Craft",
       "description": "Encodes engineering philosophy as five skills: principles, discover, simplicity, domain-modeling, testing.",
       "version": "1.0.0",
